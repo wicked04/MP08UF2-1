@@ -10,7 +10,7 @@ apache2ctl -S
 
 **RESPOSTA**
 
-**3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta a les tres carpetes dins de la teva MV.
+**3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta real a les tres carpetes dins de la teva MV.
 
 ![image](https://user-images.githubusercontent.com/110727546/194824543-c49bf482-ac93-432f-884c-d89487e587f3.png)
 
@@ -30,7 +30,25 @@ apache2ctl -S
 - I Dropbox?
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-**3.3.-** A paràmetres d'usuari introdueix l'adreça d'email de l'Institut i adjunta un mail que hagis rebut amb activitat del servei Owncloud.
+**RESPOSTA**
+
+**3.4.-** Mostra els següents canvis de paràmetres d'usuari:
+
+- Posa't una imatge d'usuari.
+- Afegeix el teu mail de l'Institut.
+- Canvia l'idioma a català.
+- Mostra la versió d'Owncloud instal·lada.
 
 **RESPOSTA**
+
+**3.5.-** Mostra els següents canvis de paràmetres d'usuari:
+
+- Posa't una imatge d'usuari.
+- Afegeix el teu mail de l'Institut.
+- Canvia l'idioma a català.
+- Mostra la versió d'Owncloud instal·lada.
+
+**RESPOSTA**
+
+
 
