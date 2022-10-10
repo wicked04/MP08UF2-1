@@ -17,3 +17,13 @@ apache2ctl -S
 
 **RESPOSTA**
 
+**3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
+
+- Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+- Fes una petita descripció de cada un d'ells.
+- Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
+- Això passa a tots els països?
+- 
+
+**RESPOSTA**
+
