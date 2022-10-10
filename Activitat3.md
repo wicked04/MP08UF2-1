@@ -9,3 +9,10 @@ apache2ctl -S
 ``` 
 
 **RESPOSTA**
+
+**3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta a les tres carpetes dins de la teva MV.
+
+
+
+**RESPOSTA**
+
