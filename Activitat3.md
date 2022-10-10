@@ -23,7 +23,14 @@ apache2ctl -S
 - Fes una petita descripció de cada un d'ells.
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 - Això passa a tots els països?
-- 
+- Quina és la llicència d'OWncloud Enterprise?
+- I la d'Owncloud Standard?
+- Es poden veure videos en Streaming directament des de Owncloud?
+- Es poden connectar directoris de Google Drive a Owncloud?
+- I Dropbox?
+- Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+
+**3.3.-** A paràmetres d'usuari introdueix l'adreça d'email de l'Institut i adjunta un mail que hagis rebut amb activitat del servei Owncloud.
 
 **RESPOSTA**
 
