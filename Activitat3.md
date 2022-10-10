@@ -41,14 +41,7 @@ apache2ctl -S
 
 **RESPOSTA**
 
-**3.5.-** Mostra els següents canvis de paràmetres d'usuari:
 
-- Posa't una imatge d'usuari.
-- Afegeix el teu mail de l'Institut.
-- Canvia l'idioma a català.
-- Mostra la versió d'Owncloud instal·lada.
-
-**RESPOSTA**
 
 
 
