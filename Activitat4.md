@@ -8,10 +8,6 @@ On fica resposta afegeix una captura de pantalla on es vegi que has fet l'acció
 
 **Aquesta part de la pràctica la feu amb un company/a, li creeu un usuari i li doneu el vostre nom de domini d'Owncloud.**
 
-Per a que pugui accedir necessitarà:
-
-- La MV amb owncloud ha d'estar en mode "adaptador pont".
-- El fitxer /etc/hosts del company ha de tenir la IP de la MV i el nom de domini de la MV del company/a.
 
 **4.1.-** Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
 
