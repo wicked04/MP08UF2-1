@@ -93,6 +93,6 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 **OPCIONAL.-** Aquesta tasca és opcional.
 
-Intenta connectar com a emmagatzematge extern el teu compte de Google Drive de l'Institut. Tens com fer-ho [aqui](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/google.html).
+Intenta connectar com a emmagatzematge extern el teu compte de Google Drive de l'Institut. Tens com fer-ho [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/google.html).
 
 **RESPOSTA**
