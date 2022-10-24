@@ -6,4 +6,4 @@
 - [Activitat 2 - Instal·lació Owncloud](Activitat2.md)
 - [Activitat 3 - Personalització Owncloud](Activitat3.md)
 - [Activitat 4 - Personalització Owncloud](Activitat4.md)
-- [Activitat 5 - Personalització Owncloud](Activitat5.md)
+- [Activitat 5 - Aplicació pràctica Owncloud](Activitat5.md)
