@@ -16,5 +16,7 @@
 
 [Pàgina de Moodle.](https://moodle.org)
 
+## Enunciats:
+
 - [Documentar instal·lació de Moodle](moodle1.md)
 - [Creació de cursos de Moodle](moodle2.md)
