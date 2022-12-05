@@ -20,4 +20,4 @@
 
 - [Documentar instal·lació de Moodle](moodle1.md)
 - [Creació de cursos de Moodle](moodle2.md)
-- [Usuaris](moodle3.md)
+- [Usuaris](usuaris.md)
