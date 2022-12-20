@@ -8,7 +8,7 @@ Hi ha dues alternatives per a fer funcionar el servei, docker o VM:
 
 ![image](https://user-images.githubusercontent.com/110727546/208652823-d0e968eb-dd5c-4089-84c5-c7e7c4c232af.png)
 
-# A entregar:
+# A entregar via Moodle en un document PDF:
 
 - Instal·leu de forma documentada la opció que preferiu.
 - Haureu de crear una carpeta anomenada **imatges de Nadal de Cognom**.
