@@ -67,6 +67,8 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
   ### Editor HTML:
   
   Podem utilitzar qualsevol editor de text per treballar amb HTML, però farem servir [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux).
+  
+  ## Elements HTML (tags):
 
   ### Capçaleres:
   
