@@ -27,3 +27,4 @@
 
 - [Curriculum - Presentació](uf5.md)
 - [Introducció a HTML](introuf5.md)
+- [Recursos - W3Schools (tutorials)](https://www.w3schools.com/)
