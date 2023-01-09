@@ -128,8 +128,12 @@ Exemple:
 Per mostrar una taula utilitzem els tags:
 
 - table: inici de taula.
+- th: table header, resalta el text de la cel·la.
 - tr: inici de Fila.
 - td: Element de la taula, cel·la.
+- colspan: Una cel·la ocupa més d'una columna.
+- rowspan: Una cel·la ocupa més d'una fila.
+
 
 Exemple:
 
@@ -142,6 +146,23 @@ Exemple:
   </tr>
 </table>
 ```
+
+Exemple amb headers i columnes que ocupen més d'una columna.
+
+```
+<table>
+  <tr>
+    <th>Element1</th>
+    <th>Element2</th>
+    <th>Element3</th>
+  </tr>
+    <tr>
+    <td colspan="2">Ocupa columna 1 i 2</td>
+    <td>Ocupa columna 3</td>    
+  </tr>
+</table>
+```
+
 ### Llistes.
 
 Hi ha dos tipus de llistes, ordenades i desordenades.
