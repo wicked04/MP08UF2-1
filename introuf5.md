@@ -22,11 +22,11 @@ Actualment anem per la versió 5 de HTML.
 
 ### Versions d'HTML:
 
-1991 - Tim Berners-Lee crea el conjunt HTML 1.0. La primera versió reconeguda de HTML és de 1993.
-1995 - Versió HTML 2.0.
-1997 - Versió HTML 3.0.
-1999 - Versió HTML 4.0.
-2014 - Versió HTML 5.0 (Actual).
+1991 - Tim Berners-Lee crea el conjunt HTML 1.0. La primera versió reconeguda de HTML és de 1993.<br>
+1995 - Versió HTML 2.0.<br>
+1997 - Versió HTML 3.0.<br>
+1999 - Versió HTML 4.0.<br>
+2014 - Versió HTML 5.0 (Actual).<br>
 
 HTML és un derivat de SGML.
 
