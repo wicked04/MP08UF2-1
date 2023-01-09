@@ -41,9 +41,11 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
 ### Estructura d'un document HTML:
 
 - Un document HTML està format per els tags o etiquetes.
-- Tot el document va entre els tags <html> i <html>.
+- Tot el document va entre els tags html i /html.
 - La etiqueta head serveix per tenir dins la meta informació de la pàgina web (informació sobre el contingut), a més del tag title que és el títol de la pàgina web.
 - La etiqueta body serà la que tindrà els elements que conformen la pàgina web.
+  - Els tags del document no són Case Sensitive, poden estar escrits en maiúscules i minúscules.
+  - Els tags s'han de tancar excepte casos com br.
   
 #### Exemple bàsic:
 
@@ -62,5 +64,81 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
 </html>
 ```
 
+  ### Editor HTML:
+  
+  Podem utilitzar qualsevol editor de text per treballar amb HTML, però farem servir [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux).
+
+  ### Capçaleres:
+  
+  Els tags de capçalera són h1, h2, h3... Fins h6 (h per heading).
+  
+  Serveixen per canviar el tamany de lletra i identifiquen títols dins del web.
+  
+  ### Paràgrafs:
+  
+  Els tags de paràgraf identifiquen paràgrafs de text, son p.
+  
+  ### Links:
+  
+  Serveixen per escriure hipervincles que enllacen a altres webs.
+  
+  ```
+  <a href="URL destí">Text del vincle</a>
+  ```
+  Es pot fer servir l'atribut target que diu on s'obrirà el vincle, per exemple target="_blank" obrirà el vincle en una pàgina nova, mentre que target="_self" l'obrirà a la mateixa.
+  
+  ### Images:
+  
+  El tag <img> serveis per incrustar imatges al web, per exemple: <img src="URL de la imatge" alt="text a mostrar si no es pot mostrar la imatge" width="100" height="100"> mostrarà una imatge escalada a 100x100.
+  
+  ### Salt de línia: 
+  
+  El tag <br> crea un salt de línia a la pàgina.
+  
+  ### Formatejar text:
+  
+- b: Negreta.
+- strong: Text important.
+- i: Cursiva.
+- em: Text emfatitzat.
+- small: Text més petit.
+- mark: Text marcat.
+- del: Text tatxat.
+- ins: Subratllat.
+- sub: Subíndex.
+- sup: Súperíndex.
+
+### Comentaris:
+
+Es pot comentar el text HTML (línies que no executa el navegador), amb el tag !
+
+Exemple:
+
+```
+<!-- comentari -->
+```
+
+### Taules.
+
+Per mostrar una taula utilitzem els tags:
+
+- table: inici de taula.
+- tr: inici de Fila.
+- td: Element de la taula, cel·la.
+
+Exemple:
+
+```
+<table>
+  <tr>
+    <td>Element1</td>
+    <td>Element2</td>
+    <td>Element3</td>
+  </tr>
+</table>
+```
+  
+  
+  
 
 
