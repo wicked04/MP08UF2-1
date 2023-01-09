@@ -89,11 +89,16 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
   
   ### Images:
   
-  El tag <img> serveis per incrustar imatges al web, per exemple: <img src="URL de la imatge" alt="text a mostrar si no es pot mostrar la imatge" width="100" height="100"> mostrarà una imatge escalada a 100x100.
+  El tag img serveix per incrustar imatges al web, per exemple: 
+  
+  ```
+  <img src="URL de la imatge" alt="text a mostrar si no es pot mostrar la imatge" width="100" height="100"> 
+  ```
+  Mostrarà una imatge escalada a 100x100.
   
   ### Salt de línia: 
   
-  El tag <br> crea un salt de línia a la pàgina.
+  El tag br crea un salt de línia a la pàgina.
   
   ### Formatejar text:
   
