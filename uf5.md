@@ -1,6 +1,6 @@
 ## UF 5: fonaments d’HTML i fulls d’estils 
 
-### Durada: 58 hores 
+### Durada: 33 hores 
 
 ### Resultats d’aprenentatge i criteris d’avaluació 
 
