@@ -5,6 +5,8 @@ Un cop tenim instal·lat Moodle i tenim el nostre usuari administrador crearem u
 1. Crea les següents categories i subcategories:
 
 ![image](https://user-images.githubusercontent.com/110727546/204323379-2eab0c2d-8c02-4804-ab63-7b6fb611f381.png)
+![image](https://user-images.githubusercontent.com/114423260/211893967-3414d08c-b8dd-48eb-a90c-2878f2df4083.png)
+
 
 2. Crea els següents cursos:
 
